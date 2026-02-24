@@ -1,4 +1,4 @@
-# Salut, moi c'est Arthur ! 👋
+# Salut, moi c'est Arthur ! 
 
 ### Futur Expert en Cybersécurité & Réseaux
 Étudiant en 2ème année de B.U.T. Réseaux et Télécommunications à Annecy.
