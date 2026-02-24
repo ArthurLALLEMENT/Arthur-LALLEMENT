@@ -3,7 +3,7 @@
 ### Futur Expert en Cybersécurité & Réseaux
 Étudiant en 2ème année de B.U.T. Réseaux et Télécommunications à Annecy.
 
-- **Projets actuels** : Optimisation de [Spotify Tools](https://srv-peda2.iut-acy.univ-smb.fr/lallemea/map/) et scripting Python.
+- **Projets actuels** : Conception d'algorithmes python pour la Physique des Télécoms.
 - **Compétences** : Administration Réseau (Cisco CCNA), Pentesting, Python, BackEnd, FrontEnd.
 - **Objectif** : Sécuriser les infrastructures critiques de demain.
 
