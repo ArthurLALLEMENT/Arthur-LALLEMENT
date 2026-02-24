@@ -14,4 +14,5 @@
 
 ---
 📫 **Me contacter** : [arthur.lallement@outlook.fr](mailto:arthur.lallement@outlook.fr)
-🌍 **Portfolio** : En cours...
+
+**Portfolio** : En cours...
